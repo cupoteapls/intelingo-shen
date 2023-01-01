@@ -23,7 +23,7 @@
     "zone.js": "~0.12.0"
   },
   "engines": {
-  "node": "12.x"
+  "node": "18.10"
 },
   "devDependencies": {
     "@angular-devkit/build-angular": "^15.0.4",
